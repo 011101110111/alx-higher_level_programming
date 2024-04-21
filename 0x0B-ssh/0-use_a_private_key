@@ -1,3 +1,3 @@
-"!/usr/bin/env bash
+#!/usr/bin/env bash
 # connects to my school sever
-ssh -l ~/.ssh/school ubuntu54.210.86.235
+ssh -i ~/.ssh/school ubuntu@54.210.86.235
